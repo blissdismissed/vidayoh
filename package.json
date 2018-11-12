@@ -22,6 +22,8 @@
     "not ie <= 11",
     "not op_mini all"
   ],
-  "homepage": "https://blissdismissed.github.io/vidayoh/"
+  "homepage": "https://blissdismissed.github.io/vidayoh/",
+  "devDependencies": {
+    "coveralls": "^3.0.2"
+  }
 }
-
